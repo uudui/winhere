@@ -1,0 +1,4 @@
+id,version,code,name,description,created_by,updated_by
+1,0,GLOBAL_SYSTEM_SETTING,设置,设置,1,1
+2,0,APPLICATION_SETTING,应用设置,应用设置,1,1
+3,0,MANAGEMENT_SETTING,管理设置,管理设置,1,1

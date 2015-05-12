@@ -1,0 +1,3 @@
+id,version,lookup_type_code,code,name,display_order,description
+1,0,ACTIVE_STATUS,ENABLED,可用,10,可用
+2,0,ACTIVE_STATUS,OFFLINE,离线,20,离线

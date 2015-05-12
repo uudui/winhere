@@ -1,0 +1,5 @@
+id,version,code,name,description,created_by,updated_by
+1,0,ADMIN,管理员,管理员角色,1,1
+2,0,USER,普通用户,普通用户角色,1,1
+
+

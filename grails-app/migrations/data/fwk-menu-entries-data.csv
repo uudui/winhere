@@ -1,0 +1,8 @@
+id,version,menu_id,sub_menu_id,sub_function_group_id,display_order,name,description,created_by,updated_by
+1,0,1,2,null,10,应用设置,应用设置,1,1
+2,0,1,3,null,20,管理设置,管理设置,1,1
+3,0,2,null,1,10,菜单,菜单,1,1
+4,0,2,null,2,20,功能组,功能组,1,1
+5,0,3,null,3,10,用户,用户,1,1
+6,0,3,null,4,20,角色,角色,1,1
+7,0,2,null,5,20,快速编码,快速编码,1,1

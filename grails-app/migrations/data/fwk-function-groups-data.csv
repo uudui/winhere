@@ -1,0 +1,6 @@
+id,version,zone_code,code,controller_name,action_name,name,description,created_by,updated_by
+1,0,FWK,MENU,menu,index,菜单,菜单,1,1
+2,0,FWK,FUNCTION_GROUP,functionGroup,index,功能组,功能组,1,1
+3,0,FWK,USER,user,index,用户,用户,1,1
+4,0,FWK,ROLE,role,index,角色,角色,1,1
+5,0,FWK,LOOKUP,lookupType,index,快速编码,快速编码,1,1
